@@ -23,6 +23,7 @@
     "@types/jest": "^25.2.2",
     "babel-jest": "^26.0.1",
     "jest": "^26.0.1",
+    "jest-diff": "^29.7.0",
     "typescript": "^3.9.2"
   }
 }

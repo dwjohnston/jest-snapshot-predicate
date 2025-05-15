@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`/Users/davidjohnston/git-workspace/jest-predicate/src/index.test.ts--toMatchSnapshotPredicate matches with predicate for foo and exact match for bar`] = `{"foo":0.5,"bar":"abcde"}`;
+
+exports[`/Users/davidjohnston/git-workspace/jest-predicate/src/index.test.ts--toMatchSnapshotPredicate matches with simple predicate`] = `42`;
